@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$(".background");$(".desc").addClass("active"),setTimeout(function(){$(".tel").addClass("active")},100)});
